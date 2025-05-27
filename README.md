@@ -1,2 +1,2 @@
-# full_stack_begnning
-dtarted learning fullstack using java 
+full_stack_begnning
+started learning fullstack using java 
